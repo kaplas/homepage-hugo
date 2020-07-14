@@ -1,6 +1,6 @@
 baseURL = "https://example.com"
 title = "Website Name"
-theme = "etch"
+theme = "etch-kaplas"
 languageCode = "en-US"
 enableInlineShortcodes = true
 pygmentsCodeFences = true
