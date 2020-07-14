@@ -9,3 +9,6 @@ hugo.linux
 
 # MacOS
 .DS_Store
+
+# Text editors
+*.sublime-*
